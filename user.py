@@ -1,0 +1,3 @@
+usernameStr = ''
+passwordStr = ''
+translator = ''
